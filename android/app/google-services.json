@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74813990457",
+    "firebase_url": "https://flutter-konnect.firebaseio.com",
+    "project_id": "flutter-konnect",
+    "storage_bucket": "flutter-konnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74813990457:android:b56e140565184cca5ccfe8",
+        "android_client_info": {
+          "package_name": "com.example.Konnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74813990457-41qjpj21n3p37n2btmlbq1di3mrespp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQJfW4Cn4ykPMiS43HD9wFDahznjyMy9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74813990457-41qjpj21n3p37n2btmlbq1di3mrespp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
