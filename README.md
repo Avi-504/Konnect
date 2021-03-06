@@ -1,5 +1,6 @@
 # Konnect
 
+## A Chatroom system build on flutter and firebase.(A Single room with multiple users.)
 A new Flutter project.
 
 ## Getting Started
